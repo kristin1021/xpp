@@ -9,7 +9,5 @@ hello,atguiggit config --global user.email 2923596926@qq.comu!
 hello,atguiggit config --global user.email 2923596926@qq.comu!
 hello,atguiggit config --global user.email 2923596926@qq.comu!
 hello,atguiggit config --global user.email 2923596926@qq.comu!
-hello,atguiggit config --global user.email 2923596926@qq.comu!
-hello,atguiggit config --global user.email 2923596926@qq.comu!
-hello,atguiggit config --global user.email 2923596926@qq.comu!
 11111hello,atguiggit config --global user.email 2923596926@qq.comu1111111111111!
+22222222hello,atguiggit config --global user.email 2923596926@qq.comu!
